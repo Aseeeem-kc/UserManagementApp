@@ -25,3 +25,6 @@ This repository contains a User Management application built using Django and Py
    ```bash
    git clone https://github.com/yourusername/user-management-app.git
    cd user-management-app
+   
+## Credits
+This project was inspired by a tutorial from Tech With Tim. A big thanks to him for the amazing content and guidance provided through his YouTube channel.
